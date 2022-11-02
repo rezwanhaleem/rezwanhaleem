@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Rez's GitHub Banner](./assets/hero.png)]
+![Rez's GitHub Banner](./assets/hero.png)
