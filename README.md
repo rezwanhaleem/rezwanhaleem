@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 
 Hi there :wave:
 
-I'm Rez, an aspiring web app developer with an interest in full-stack development. I've created the projects below on my free time. Check them out!
+I'm Rez, a software engineer with an interest in full-stack development. I've created the projects below on my free time. Check them out!
